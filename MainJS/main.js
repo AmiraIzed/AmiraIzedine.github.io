@@ -21,15 +21,14 @@ jQuery(document).ready(function ($) {
         image: {
             verticalFit: true,
             titleSrc: function (item) {
-                //More could be done here......
-                //Also doesn't fit so good on iPad.
+              
                 var caption = item.el.attr('title');
                 return caption;
             }
         },
 
-        //This will let us click through images eventually....
-        gallery: {
+        //This will let us click through images 
+                gallery: {
             enabled: true
         },
     });
