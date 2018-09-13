@@ -1,98 +1,102 @@
-/* Variables used throughout will go here. */
-/****************************
-Body Section
-****************************/
-/* ------------------------------
-Navbar Section
---------------------------------*/
+
+
+
+/* Body Section */
+
+/* background {
+background-color:seagreen
+
+} */
+
+/* 
+Navbar Section */
+
 
 .navbar-default {
-    background-color:lightseagreen;
-    border-color: lightseagreen; }
-  
-  .navbar-default .navbar-brand {
-    font-size: 30px;
-    color: lightseagreen; }
-  
-  /* CSS code for the Header section. */
-  
-  
-  .jumbotron {
-    margin-top: -1.5em;
-    padding-top: 180px;
-    background-image:("assets/anas-alshanti-169265-unsplah.jpg") no-repeat center;
-    background-size: cover;
-    height: 75vh;
-    color: white; }
-  
-  #jumbotronContent {
-    text-align: center; }
-  
-  #jumbH1 {
-    font-size: 85px; }
-  
-  #jumbop {
-    font-size: 35px; }
-  
-  /****************************
-  About Section
-  ****************************/
-  .abouth2 {
-    text-align: center;
-    font-size: 48px; }
-  
-  .Portrait {
-    width: 150px; }
-  
-  .aboutspacer {
-    width: 200px;
-    border-top: 1px solid lightseagreen; }
-  
-  .abouttext {
-    font-size: 16px; }
-  
-  
-  /* ------------------------------
-  Portfolio Section
-  --------------------------------*/
-  .portfolioh2 {
-    text-align: center;
-    font-size: 48px; }
-  
-  .portfoliospacer {
-    width: 200px;
-    border-top: 1px solid lightseagreen; }
-  
-  .portfolioImage {
-    width: 300px; }
-  
-  .portfoliotext {
-    font-size: 16px; }
-  
-  /* ------------------------------
-  Skill Section
-  --------------------------------*/
-  .skillsh2 {
-    text-align: center;
-    font-size: 48px; }
-  
-  .skillsspacer {
-    width: 200px;
-    border-top: 1px solid lightseagreen; }
-  
-  .portfolioh3 {
-    color: #777; }
-  
-  /* CSS code for the Contact section. */
-  .contacth2 {
-    text-align: center;
-    font-size: 48px; }
-  
-  .contactspacer {
-    width: 200px;
-    border-top: 1px solid lightseagreen; }
-  
-  /* CSS code for the Footer section. */
-  .font {
-    font-size: 16px; }
-  
+  background-color:lightseagreen;
+  border-color: lightseagreen; } 
+
+.navbar-default .navbar-brand {
+  font-size: 45px;
+  color: lightseagreen; } 
+
+/* CSS code for the Header section. */
+
+.jumbotron {
+  margin-top: -1.5em;
+  padding-top: 120px;
+  background-image: no-repeat center;
+  background-size: cover;
+  height: 55vh;
+  color: green; }
+
+#jumbotronContent {
+  text-align: center; }
+
+#jumbH1 {
+  font-size: 85px; }
+
+#jumbop {
+  font-size: 35px; }
+
+/****************************
+About Section
+****************************/
+.abouth2 {
+  text-align: center;
+  font-size: 56px; }
+
+.Portrait {
+  width: 110px; }
+
+.aboutspacer {
+  width: 200px;
+  border-top: 1px solid lightseagreen; }
+
+.abouttext {
+  font-size: 25px; }
+
+
+/* ------------------------------
+Portfolio Section
+--------------------------------*/
+.portfolioh2 {
+  text-align: center;
+  font-size: 48px; }
+
+.portfoliospacer {
+  width: 300px;
+  border-top: 1px solid lightseagreen; }
+
+.portfolioImage {
+  width: 500px; }
+
+.portfoliotext {
+  font-size: 16px; }
+
+/* ------------------------------
+Skill Section
+--------------------------------*/
+.skillsh2 {
+  text-align: center;
+  font-size: 48px; }
+
+.skillsspacer {
+  width: 200px;
+  border-top: 1px solid lightseagreen; }
+
+.portfolioh3 {
+  color: #777; }
+
+/* CSS code for the Contact section. */
+.contacth2 {
+  text-align: center;
+  font-size: 48px; }
+
+.contactspacer {
+  width: 200px;
+  border-top: 1px solid lightseagreen; }
+
+/* CSS code for the Footer section. */
+.font {
+  font-size: 16px; }

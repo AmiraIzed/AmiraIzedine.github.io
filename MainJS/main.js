@@ -1,4 +1,4 @@
-/* jQuery & JS stuff goes here. */
+/* jQuery & JS goes here. */
 
 
 jQuery(document).ready(function ($) {
